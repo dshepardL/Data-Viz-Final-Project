@@ -23,13 +23,13 @@ Once the data was accurately structured, I played around with the output in exce
 
 After a lot of tutorial videos and help from friends I got a grasp on Illustrator and got to work designing different layers of data and trying out different fonts and colors to end on the final visual. It was also really important that this chart be interactive, so I also learned how to use Invision and built an interactive experience I feel really proud of. With the new interactivity you can select each barrier or opportunity section to get a cleaner view of the data. You can click on the sub-categories within each theme and read the direct quotes from our interviews.
 
-Demo Link
+You can see my final interactive visual here:
 
 invision link here
+
+Additionally, my visual is part of a larger set of deliverables from my thesis partner's that are telling other parts of the citizen engagement story. Corinne has a wonderful breakdown of how all of our pieces fit together laid out here: Corinne Reynold's Data Visualization
 
 * explain your process, sources, and reasoning 
 
 * **Project Procedure**: describe your data processing, visualization selection, and analysis post-visualization
 
-
-How the project connects with the work of my thesis partners, Corinne has a wonderful breakdown of how all of our pieces fit together laid out here: Corinne Reynold's Data Visualization
