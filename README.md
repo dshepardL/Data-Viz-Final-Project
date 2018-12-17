@@ -24,7 +24,7 @@ Once the data was accurately structured, I played around with the output in exce
 After a lot of tutorial videos and help from friends I got a grasp on Illustrator and got to work designing different layers of data and trying out different fonts and colors to end on the final visual. It was also really important that this chart be interactive, so I also learned how to use Invision and built an interactive experience I feel really proud of. With the new interactivity you can select each barrier or opportunity section to get a cleaner view of the data. You can click on the sub-categories within each theme and read the direct quotes from our interviews.
 
 You can see my final interactive visual here:
-https://invis.io/2PPND7TFADQ#/337245001_FULL
+https://invis.io/JKPND8DFZSH#/337245001_FULL
 
 Additionally, my visual is part of a larger set of deliverables from my thesis partner's that are telling other parts of the citizen engagement story. Corinne has a wonderful breakdown of how all of our pieces fit together laid out here: https://gist.github.com/corinnereynolds/58e88ed965f0459afb70498b92ea94a7
 
