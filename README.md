@@ -30,5 +30,3 @@ https://invis.io/JKPND8DFZSH#/337245001_FULL
 Additionally, my visual is part of a larger set of deliverables from my thesis partner's that are telling other parts of the citizen engagement story. Corinne has a wonderful breakdown of how all of our pieces fit together laid out here: https://gist.github.com/corinnereynolds/58e88ed965f0459afb70498b92ea94a7
 
 I learned A LOT from this project. Aside from some tech skills I never had before, I also learend what it means to be a designer in the data viz world. It's weird feeling to have to make decisions about how data is used and what kind of story you want it to tell. I have a new found love of quantitative data and this definitely will not be the last time I navigate a complicated social space (feelings about the government) with real data to help the cause.
-
-
